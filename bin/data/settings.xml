@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<group>
+	<FPS>60.00</FPS>
+	<Particles>
+		<Count>99856</Count>
+		<Life_Min>1</Life_Min>
+		<Life_Max>3</Life_Max>
+		<Scale_Born>0</Scale_Born>
+		<Scale_Dead>6.53061</Scale_Dead>
+		<Noise_Scale>1.0413</Noise_Scale>
+		<Time_Scale>0.200051</Time_Scale>
+		<Noise_Persist>6.09694</Noise_Persist>
+		<Render_Scale>190.398</Render_Scale>
+	</Particles>
+</group>
