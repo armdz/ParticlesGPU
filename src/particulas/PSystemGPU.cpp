@@ -101,7 +101,7 @@ void    PSystemGPU::update()
      
      shaderUpdate.setUniform1f("u_noiseScale",noiseScale);
      shaderUpdate.setUniform1f("u_noiseTime",timeScale);
-     shaderUpdate.setUniform1f("noisePersist",noisePersist);
+     shaderUpdate.setUniform1f("u_noisePersist",noisePersist);
 
      pPong.getSrc().getTexture(0).draw(0,0);
 

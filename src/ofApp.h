@@ -26,5 +26,6 @@ class ofApp : public ofBaseApp{
     PSystemGPU  particles;
     ofxPanel      gui;
     ofParameter<string> fps;
+    bool    showGui;
 		
 };
